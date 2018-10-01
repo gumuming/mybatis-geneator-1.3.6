@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mybatisgeneator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mybatisgeneator_jar</output-path>
+    <root id="archive" name="mybatisgeneator.jar">
+      <element id="module-output" name="mybatisgeneator" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/log4j/log4j/1.2.7/log4j-1.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/ant/ant/1.9.0/ant-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/ant/ant-launcher/1.9.0/ant-launcher-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

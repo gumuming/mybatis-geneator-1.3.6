@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/ant" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/ant" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/api" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/codegen" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/config" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/exception" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/internal" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/logging" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/plugins" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/geneartor/runtime" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/ant" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/api" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/codegen" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/config" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/exception" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/internal" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/logging" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/plugins" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/plugins/LombokPlugin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/runtime" charset="GBK" />
+  </component>
+</project>
